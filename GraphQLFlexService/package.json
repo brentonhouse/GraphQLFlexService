@@ -1,0 +1,25 @@
+{
+  "name": "graphqlflexservice",
+  "version": "1.0.0",
+  "description": "Testing a GraphQL-based Flex service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilger-progress/GraphQLFlexService.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "Flex",
+    "Kinvey",
+    "Service"
+  ],
+  "author": "Bilger Yahov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilger-progress/GraphQLFlexService/issues"
+  },
+  "homepage": "https://github.com/bilger-progress/GraphQLFlexService#readme"
+}
